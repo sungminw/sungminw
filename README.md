@@ -9,10 +9,10 @@
 <img src="https://img.shields.io/badge/springFramework-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat&logo=springBoot&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
-<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black">
 <br><br>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
