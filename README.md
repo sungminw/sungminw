@@ -31,7 +31,7 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=E6F1D3&height=300&section=footer&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E6F1D3&height=200&section=footer&text=&fontSize=90)
 
 
 <!--
