@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"> 
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"> 
 
-<br><br><br>
+<br><br>
 
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"> 
@@ -23,17 +23,17 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> 
 
-<br><br><br>
+<br><br>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
 
-<br><br><br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 
-<br><br><br>
+<br><br>
 
 <a href="https://www.notion.so/51963436328541d0ae517b01d13716ee?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
 
