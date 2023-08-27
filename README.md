@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2>🛠 Tech Stack 🛠</h2>
-<h3>📡Back-End</h3>
+<h3>🔧Back-End</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Servlet-93A4F4?style=flat&logo=jsp&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-DE6C1E?style=flat&logo=jsp&logoColor=white">
