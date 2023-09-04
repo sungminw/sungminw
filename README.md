@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 <br>
 <h3>📒PortPolio</h3>
-<a href="https://www.notion.so/51963436328541d0ae517b01d13716ee?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
+<!-- <a href="https://www.notion.so/51963436328541d0ae517b01d13716ee?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a> -->
 
 </div>
 
