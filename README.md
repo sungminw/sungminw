@@ -32,7 +32,7 @@
 <br>
 <h3>📒PortPolio</h3>
   <a href="https://www.notion.so/51963436328541d0ae517b01d13716ee?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
-  <a href="https://www.notion.so/51963436328541d0ae517b01d13716ee?pvs=4](https://cotton-blarney-d0f.notion.site/PBT-JAVA-UI-Python-SW-23-03-02-23-09-15-0e468a83a0774e7eacecd573b5061952?pvs=4)"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Blog&logoColor=white"></a>
+  <a href="https://cotton-blarney-d0f.notion.site/PBT-JAVA-UI-Python-SW-23-03-02-23-09-15-0e468a83a0774e7eacecd573b5061952?pvs=4"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Blog&logoColor=white"></a>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E6F1D3&height=200&section=footer&text=&fontSize=90)
